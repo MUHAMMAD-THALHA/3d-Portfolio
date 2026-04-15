@@ -2,6 +2,7 @@
 
 Welcome to my **3D Personal Portfolio Website** — a modern, interactive portfolio built to showcase my projects, skills, and frontend development expertise.
 
+# Deploy link : https://3d-portfolio-a116.vercel.app/
 ---
 
 ## 🌐 Live Projects
@@ -11,14 +12,16 @@ Here are some of my featured projects:
 ### 🧩 Puzzle Square Game
 
 A fun and engaging **math-based puzzle game** that challenges logic and problem-solving skills.
-🔗 https://puzzle-square-game.vercel.app/
+
+# 🔗 https://puzzle-square-game.vercel.app/
 
 ---
 
 ### 🍔 Project Foodie
 
 A responsive **food ordering / showcase website** with clean UI and smooth user experience.
-🔗 https://658e4ddf5e2c056afafdff86--heartfelt-bublanina-459fdd.netlify.app/
+
+# 🔗 https://658e4ddf5e2c056afafdff86--heartfelt-bublanina-459fdd.netlify.app/
 
 ---
 
