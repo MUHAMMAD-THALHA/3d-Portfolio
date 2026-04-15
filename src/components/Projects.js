@@ -1,10 +1,12 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/project-img1.png";
-import projImg2 from "../assets/img/project-img2.png";
+// import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import foodie from "../assets/img/foodie.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
+import soulSync from "../assets/img/Soul-Sync.png";
+import img2048 from "../assets/img/2048.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -12,36 +14,23 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "2048",
-      description: "Math Game",
-      imgUrl: projImg1,
+      title: "Puzzle Square Game",
+      description: "2048",
+      imgUrl: img2048,
+      url:'https://puzzle-square-game.vercel.app/'
     },
     {
       title: "Project Foodie",
       description: "Foodie site",
-      imageUrl: foodie.png,
+      imgUrl: foodie,
       url: 'https://658e4ddf5e2c056afafdff86--heartfelt-bublanina-459fdd.netlify.app/',
     },
     {
-      title: "Project Foodie",
+      title: "SoulSync",
       description: "Website",
-      imgUrl: projImg3,
+      imgUrl: soulSync,
+      url:'https://soul-sync-a8ni.vercel.app/'
     }
-    // {
-    //   title: "Business Startup",
-    //   description: "Design & Development",
-    //   imgUrl: projImg1,
-    // },
-    // {
-    //   title: "Business Startup",
-    //   description: "Design & Development",
-    //   imgUrl: projImg2,
-    // },
-    // {
-    //   title: "Business Startup",
-    //   description: "Design & Development",
-    //   imgUrl: projImg3,
-    // },
   ];
 
   return (
