@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+# 🚀 3D Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my **3D Personal Portfolio Website** — a modern, interactive portfolio built to showcase my projects, skills, and frontend development expertise.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌐 Live Projects
 
-### `npm start`
+Here are some of my featured projects:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🧩 Puzzle Square Game
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A fun and engaging **math-based puzzle game** that challenges logic and problem-solving skills.
+🔗 https://puzzle-square-game.vercel.app/
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🍔 Project Foodie
 
-### `npm run build`
+A responsive **food ordering / showcase website** with clean UI and smooth user experience.
+🔗 https://658e4ddf5e2c056afafdff86--heartfelt-bublanina-459fdd.netlify.app/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 💫 SoulSync
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A modern **relationship & connection-based web application** with aesthetic UI and interactive features.
+🔗 https://soul-sync-a8ni.vercel.app/
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* ⚛️ React.js
+* 🎨 CSS / Bootstrap
+* ✨ Animate.css
+* 📦 React Libraries (React Router, React Bootstrap, etc.)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🎯 Features
 
-## Learn More
+* 🎥 Interactive 3D-style UI
+* 📱 Fully Responsive Design
+* ⚡ Smooth Animations
+* 🔗 Live Project Links
+* 🧩 Modular Component Structure
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Getting Started
 
-### Code Splitting
+Clone the repo:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
 
-### Analyzing the Bundle Size
+Install dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm install
+```
 
-### Making a Progressive Web App
+Run the app:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+npm start
+```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📦 Build for Production
 
-### Deployment
+```bash
+npm run build
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 📌 About Me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I am a passionate frontend developer focused on building **modern, user-friendly, and visually appealing web applications**.
+This portfolio represents my journey, creativity, and technical skills.
+
+---
+
+## ⭐ Future Improvements
+
+* 🔥 More 3D interactions
+* 🌍 Backend integration
+* 📊 Project analytics dashboard
+* 🎨 Advanced UI/UX enhancements
+
+---
+
+## 🙌 Feedback
+
+Feel free to explore my projects and share your feedback!
+It helps me improve and grow 🚀
+
+---
